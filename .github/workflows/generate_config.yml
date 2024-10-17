@@ -19,7 +19,7 @@ jobs:
               run: |
                 echo '{
                   "publicProps": {
-                    "title": "Add a title for your lesson/project",
+                    "title": "eScience Internal-training",
                     "baseURL": "${{ github.event.repository.name }}",
                     "repoName": "${{ github.event.repository.name }}",
                     "repoOwner": "esciencecenter-digital-skills",

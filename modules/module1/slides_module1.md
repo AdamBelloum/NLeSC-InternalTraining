@@ -12,7 +12,7 @@ order: 1
 
 <!-- .slide: data-state="standard" -->
 
-## Title of the first slide
+## introduction to computer science and software engineering 
 
 <center>
 <img src="media/fig-dummy.png" width="55%">

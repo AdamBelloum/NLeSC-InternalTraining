@@ -6,13 +6,28 @@ order: 1
 
 <!-- .slide: data-state="title" -->
 
-# Module 1
+# Module 1: Introduction to computer science and software engineering
 
 ===
 
 <!-- .slide: data-state="standard" -->
 
-## introduction to computer science and software engineering 
+## Unit1:  Research software 
+
+<img class="rotate-90" src="media/Lochkarte_Tanzorgel_cutout.jpg"  width="40%" data-rotate="90">
+
+<small>Photo by <a href="https://www.wikidata.org/wiki/Q106975068">Stefan Kuhn</a> on <a href="https://commons.wikimedia.org/wiki/File:Lochkarte_Tanzorgel.jpg">Wikimedia</a>
+</small>
+
+Note:
+
+This is a test of the Nebula, trying to learn to create slides 1
+
+===
+
+<!-- .slide: data-state="standard" -->
+
+## Unit2:  Programming Paradigm 
 
 <center>
 <img src="media/fig-dummy.png" width="55%">
@@ -20,21 +35,7 @@ order: 1
 
 Note:
 
-Add notes to the presenter...
-
-===
-
-<!-- .slide: data-state="standard" -->
-
-## introduction to computer science and software engineeringrqwerqwwerrqqwerqwe 
-
-<center>
-<img src="media/fig-dummy.png" width="55%">
-</center>
-
-Note:
-
-Add notes to the presenter...
+This is a test of the Nebula, trying to learn to create slides 2
 
 ===
 

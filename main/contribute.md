@@ -1,5 +1,6 @@
 ---
 title: Contribute
+order: 2 
 ---
 
 ## Contributing to this lesson

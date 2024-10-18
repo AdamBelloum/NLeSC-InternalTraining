@@ -24,8 +24,6 @@ Add notes to the presenter...
 
 ===
 
-===
-
 <!-- .slide: data-state="standard" -->
 
 ## introduction to computer science and software engineeringrqwerqwwerrqqwerqwe 

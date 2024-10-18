@@ -24,6 +24,22 @@ Add notes to the presenter...
 
 ===
 
+===
+
+<!-- .slide: data-state="standard" -->
+
+## introduction to computer science and software engineeringrqwerqwwerrqqwerqwe 
+
+<center>
+<img src="media/fig-dummy.png" width="55%">
+</center>
+
+Note:
+
+Add notes to the presenter...
+
+===
+
 <!-- .slide: data-state="keepintouch" -->
 
 
